@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors label="SLSTK3701A_EFM32GG11B_AWS_IoT" description="Connect to AWS IoT using RS9116. ">
+    <properties key="core.boardCompatibility" value="brd2204a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
+    <properties key="defaultName" value="SLSTK3701A_EFM32GG11B_acmp_interrupt"/>
+    <properties key="template.category" value="ACMP"/>
+    <properties key="template.initiallyOpenedResource" value="readme.txt"/>
+    <properties key="template.projectFilePaths" value="series1/acmp/acmp_interrupt/SimplicityStudio/SLSTK3701A_EFM32GG11B_acmp_interrupt.slsproj"/>
+  </descriptors>
+  </model:MDescriptors>
