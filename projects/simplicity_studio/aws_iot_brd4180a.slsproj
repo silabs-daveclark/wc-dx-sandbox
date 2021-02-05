@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="aws_iot_brd4180a" boardCompatibility="brd4180a" partCompatibility="mcu.arm.efr32.mg21.*" toolchainCompatibility="" contentRoot="../../host">
+  <module id="com.silabs.sdk.exx32.board">
+    <exclude pattern=".*" />
+  </module>
+  <module id="com.silabs.sdk.exx32.common.CMSIS">
+    <exclude pattern=".*" />
+  </module>
+  <module id="com.silabs.sdk.exx32.common.emlib">
+    <include pattern="emlib/em_cmu.c" />
+    <include pattern="emlib/em_emu.c" />
+    <include pattern="emlib/em_gpio.c" />
+    <include pattern="emlib/em_core.c" />
+    <include pattern="emlib/em_ldma.c" />
+    <include pattern="emlib/em_system.c" />
+    <include pattern="emlib/em_usart.c" />
+  </module>
+  <module id="com.silabs.sdk.exx32.common.bsp">
+    <exclude pattern=".*" />
+  </module>
+  <module id="com.silabs.sdk.exx32.part">
+    <include pattern="CMSIS/.*/startup_.*_.*.s" />
+    <include pattern="CMSIS/.*/system_.*.c" />
+  </module>
+  <folder name="debug_prints">
+    <file name="retargetio.c" uri="platforms/efr32/debug_prints/retargetio.c" />
+  </folder>
+
+  <folder name="example" uri="sapis/examples/wlan/cloud/aws_iot/device_shadow" includeAllFiles="true" includeAllFolders="true" />
+
+  <folder name="Platforms">
+    <folder name="hal" uri="platforms/efr32/hal" includeAllFiles="true" includeAllFolders="true" />
+  </folder>
+  <folder name="Sapis">
+    <folder name="common" uri="sapis/common" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="crypto" uri="sapis/crypto" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="driver" uri="sapis/driver" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="include" uri="sapis/include" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="rom" uri="sapis/rom" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="nwk/applications/aws_sdk" uri="sapis/nwk/applications/aws_sdk" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="nwk/applications/mqtt_client/src/MQTTPacket" uri="sapis/nwk/applications/mqtt_client/src/MQTTPacket" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="nwk/socket" uri="sapis/nwk/socket" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="wlan" uri="sapis/wlan" includeAllFiles="true" includeAllFolders="true"/>
+    <folder name="examples/utilities/certificates" uri="sapis/examples/utilities/certificates" includeAllFiles="true" includeAllFolders="true"/>
+
+    <file name="nwk/applications/rsi_dns.c" uri="sapis/nwk/applications/rsi_dns.c" />
+
+  </folder>
+
+  <includePath uri="sapis/examples/wlan/cloud/aws_iot/device_shadow"/>
+
+
+  <includePath uri="sapis/nwk/applications/aws_sdk/include"/>
+  <includePath uri="sapis/nwk/applications/aws_sdk/platform/inc"/>
+  <includePath uri="sapis/nwk/applications/mqtt_client/src/MQTTPacket/src"/>
+  <includePath uri="sapis/examples/utilities/certificates"/>
+  <includePath uri="sapis/include" />
+  <includePath uri="sapis/rom" />
+  <macroDefinition name="RSI_WLAN_ENABLE" />
+  <macroDefinition name="RSI_SAMPLE_HAL" />
+  <macroDefinition name="RSI_BLE_ENABLE" />
+
+  <macroDefinition name="RSI_SPI_INTERFACE" />
+
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.flags" value="-c -x assembler-with-cpp -mfloat-abi=softfp -mfpu=fpv4-sp-d16 "/>
+</project>

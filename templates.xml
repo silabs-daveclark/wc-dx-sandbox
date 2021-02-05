@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
-  <descriptors label="BRD4162A_EFR32MG12_AWS_IoT" description="Connect to AWS IoT using RS9116. ">
-    <properties key="core.boardCompatibility" value="brd4162a"/>
-    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg12.*"/>
-    <properties key="defaultName" value="BRD4162A_EFR32MG12_AWS_IoT"/>
+
+  <descriptors label="RS9116W - Throughput" description="Configures the RS9116W to perform Wi-Fi throughput measurements using the UDP, TCP or SSL protocol">
+    <properties key="core.boardCompatibility" value="brd4180a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="throughput_brd4180a"/>
     <properties key="template.category" value="ACMP"/>
     <properties key="template.initiallyOpenedResource" value="readme.txt"/>
-    <properties key="template.projectFilePaths" value="host/platforms/EFR32/Reference_Projects/Simplicity/Projects/SPI/AWS_IoT/BRD4161A_EFR32MG12P_aws_iot.slsproj"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/throughput_brd4180a.slsproj"/>
   </descriptors>
-  </model:MDescriptors>
 
+  <descriptors label="RS9116W - AWS IoT" description="Connects the RS9116W to a MQTT broker running on the AWS IoT cloud service.">
+    <properties key="core.boardCompatibility" value="brd4180a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="aws_iot_brd4180a"/>
+    <properties key="template.category" value="ACMP"/>
+    <properties key="template.initiallyOpenedResource" value="readme.txt"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/aws_iot_brd4180a.slsproj"/>
+  </descriptors>
+
+ <descriptors label="RS9116W - Firmware Update" description="Demonstrates how to wirelessly upgrade the RS9116W firmware using a remote TCP server">
+    <properties key="core.boardCompatibility" value="brd4180a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="firmware_update_brd4180a"/>
+    <properties key="template.category" value="ACMP"/>
+    <properties key="template.initiallyOpenedResource" value="readme.txt"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/firmware_update_brd4180a.slsproj"/>
+  </descriptors>
+</model:MDescriptors>
