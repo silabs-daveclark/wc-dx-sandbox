@@ -1,0 +1,8 @@
+rsi_events_rom.c:34:6:ROM_WL_rsi_set_event	24	static
+rsi_events_rom.c:68:6:ROM_WL_rsi_set_event_from_isr	24	static
+rsi_events_rom.c:98:6:ROM_WL_rsi_clear_event	24	static
+rsi_events_rom.c:125:6:ROM_WL_rsi_mask_event	24	static
+rsi_events_rom.c:152:6:ROM_WL_rsi_unmask_event_from_isr	16	static
+rsi_events_rom.c:180:6:ROM_WL_rsi_unmask_event	16	static
+rsi_events_rom.c:212:10:ROM_WL_rsi_find_event	24	static
+rsi_events_rom.c:239:10:ROM_WL_rsi_register_event	24	static

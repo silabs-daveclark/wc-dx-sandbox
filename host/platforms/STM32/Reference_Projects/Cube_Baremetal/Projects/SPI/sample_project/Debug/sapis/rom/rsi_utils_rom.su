@@ -1,0 +1,4 @@
+rsi_utils_rom.c:35:6:ROM_WL_rsi_uint16_to_2bytes	24	static
+rsi_utils_rom.c:59:6:ROM_WL_rsi_uint32_to_4bytes	24	static
+rsi_utils_rom.c:86:10:ROM_WL_rsi_bytes2R_to_uint16	24	static
+rsi_utils_rom.c:113:10:ROM_WL_rsi_bytes4R_to_uint32	24	static

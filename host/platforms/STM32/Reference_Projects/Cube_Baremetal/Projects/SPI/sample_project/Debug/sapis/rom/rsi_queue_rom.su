@@ -1,0 +1,7 @@
+rsi_queue_rom.c:36:6:ROM_WL_rsi_queues_init	16	static
+rsi_queue_rom.c:70:6:ROM_WL_rsi_enqueue_pkt_from_isr	24	static
+rsi_queue_rom.c:106:6:ROM_WL_rsi_enqueue_pkt	24	static
+rsi_queue_rom.c:149:12:ROM_WL_rsi_dequeue_pkt	24	static
+rsi_queue_rom.c:203:10:ROM_WL_rsi_check_queue_status	24	static
+rsi_queue_rom.c:243:6:ROM_WL_rsi_block_queue	16	static
+rsi_queue_rom.c:266:6:ROM_WL_rsi_unblock_queue	16	static

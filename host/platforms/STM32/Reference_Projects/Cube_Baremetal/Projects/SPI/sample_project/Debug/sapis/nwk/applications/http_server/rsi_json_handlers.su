@@ -1,0 +1,12 @@
+rsi_json_handlers.c:40:10:rsi_json_object_stringify	312	static
+rsi_json_handlers.c:84:6:rsi_json_object_scan_list_update	24	static
+rsi_json_handlers.c:110:6:rsi_json_object_init	16	static
+rsi_json_handlers.c:139:9:rsi_json_object_update	56	static
+rsi_json_handlers.c:182:6:rsi_json_object_data_update_helper	16	static
+rsi_json_handlers.c:225:10:rsi_json_extract_filename	24	static
+rsi_json_handlers.c:267:6:rsi_json_extract_string	104	static
+rsi_json_handlers.c:327:6:rsi_json_extract_int	56	static
+rsi_json_handlers.c:381:6:rsi_json_extract_float	64	static
+rsi_json_handlers.c:436:6:rsi_json_extract_boolean	40	static
+rsi_json_handlers.c:485:5:rsi_is_int	16	static
+rsi_json_handlers.c:510:5:rsi_is_float	16	static

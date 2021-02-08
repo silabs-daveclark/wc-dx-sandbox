@@ -1,0 +1,2 @@
+rsi_spi_iface_init.c:51:9:rsi_spi_iface_init	24	static
+rsi_spi_iface_init.c:103:6:rsi_ulp_wakeup_init	16	static

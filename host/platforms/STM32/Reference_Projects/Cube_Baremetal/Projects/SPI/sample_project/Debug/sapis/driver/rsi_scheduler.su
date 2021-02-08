@@ -1,0 +1,4 @@
+rsi_scheduler.c:34:6:rsi_scheduler_init	16	static
+rsi_scheduler.c:45:10:rsi_get_event	16	static
+rsi_scheduler.c:66:6:rsi_scheduler	16	static
+rsi_scheduler.c:79:10:rsi_get_event_non_rom	24	static

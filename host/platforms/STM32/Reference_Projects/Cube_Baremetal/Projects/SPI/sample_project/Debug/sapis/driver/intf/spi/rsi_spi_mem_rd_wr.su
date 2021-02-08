@@ -1,0 +1,2 @@
+rsi_spi_mem_rd_wr.c:51:9:rsi_mem_wr	48	static
+rsi_spi_mem_rd_wr.c:131:9:rsi_mem_rd	48	static

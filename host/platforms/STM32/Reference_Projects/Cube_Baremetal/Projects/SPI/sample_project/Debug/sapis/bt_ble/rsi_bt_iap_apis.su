@@ -1,0 +1,17 @@
+rsi_bt_iap_apis.c:30:9:rsi_bt_iap_init	16	static
+rsi_bt_iap_apis.c:45:9:rsi_bt_iap_conn	24	static
+rsi_bt_iap_apis.c:62:9:rsi_bt_iap_disconn	24	static
+rsi_bt_iap_apis.c:80:9:rsi_bt_iap_set_accessory_info	88	static
+rsi_bt_iap_apis.c:100:9:rsi_bt_iap_set_voice_over	24	static
+rsi_bt_iap_apis.c:118:9:rsi_bt_iap_set_protocol_type	24	static
+rsi_bt_iap_apis.c:134:9:rsi_bt_iap_find_protocol_type	16	static
+rsi_bt_iap_apis.c:149:9:rsi_bt_iap_send_control_session_data	16	static
+rsi_bt_iap_apis.c:166:9:rsi_bt_iap1_identification	8	static
+rsi_bt_iap_apis.c:181:9:rsi_bt_iap2_identification	8	static
+rsi_bt_iap_apis.c:196:9:rsi_bt_iap1_device_authentication	8	static
+rsi_bt_iap_apis.c:212:9:rsi_bt_iap2_update_send_cmds_info	16	static
+rsi_bt_iap_apis.c:228:9:rsi_bt_iap2_update_recv_cmds_info	16	static
+rsi_bt_iap_apis.c:245:9:rsi_bt_iap2_Init_File_Transfer	8	static
+rsi_bt_iap_apis.c:262:9:rsi_bt_iap2_deInit_File_Transfer	8	static
+rsi_bt_iap_apis.c:276:9:rsi_bt_iap2_Send_File_Transfer_State	16	static
+rsi_bt_iap_apis.c:292:9:rsi_bt_iap2_Send_File_Transfer_data	16	static

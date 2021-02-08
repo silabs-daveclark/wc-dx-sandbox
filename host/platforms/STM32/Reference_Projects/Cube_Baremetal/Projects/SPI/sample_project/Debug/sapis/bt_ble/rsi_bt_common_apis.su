@@ -1,0 +1,17 @@
+rsi_bt_common_apis.c:31:9:rsi_bt_set_bd_addr	24	static
+rsi_bt_common_apis.c:50:9:rsi_bt_ber_enable_or_disable	16	static
+rsi_bt_common_apis.c:69:9:rsi_bt_set_local_name	72	static
+rsi_bt_common_apis.c:92:9:rsi_bt_get_local_name	16	static
+rsi_bt_common_apis.c:108:9:rsi_bt_get_rssi	24	static
+rsi_bt_common_apis.c:130:9:rsi_bt_get_local_device_address	16	static
+rsi_bt_common_apis.c:146:9:rsi_bt_get_bt_stack_version	16	static
+rsi_bt_common_apis.c:164:9:rsi_bt_init	8	static
+rsi_bt_common_apis.c:181:9:rsi_bt_deinit	8	static
+rsi_bt_common_apis.c:197:9:rsi_bt_set_antenna	24	static
+rsi_bt_common_apis.c:216:9:rsi_bt_set_feature_bitmap	24	static
+rsi_bt_common_apis.c:237:9:rsi_bt_set_antenna_tx_power_level	24	static
+rsi_bt_common_apis.c:265:9:rsi_bt_power_save_profile	24	static
+rsi_bt_common_apis.c:294:9:rsi_bt_per_stats	16	static
+rsi_bt_common_apis.c:309:9:rsi_ble_vendor_avdtp_stats_enable	24	static
+rsi_bt_common_apis.c:331:9:rsi_memory_stats_enable	24	static
+rsi_bt_common_apis.c:354:9:rsi_bt_per_cw_mode	16	static

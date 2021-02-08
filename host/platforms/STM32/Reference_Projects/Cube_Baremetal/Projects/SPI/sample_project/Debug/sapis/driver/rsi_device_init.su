@@ -1,0 +1,8 @@
+rsi_device_init.c:94:9:rsi_bl_module_power_cycle	8	static
+rsi_device_init.c:131:9:rsi_bl_waitfor_boardready	16	static
+rsi_device_init.c:189:9:rsi_bl_select_option	32	static
+rsi_device_init.c:300:9:rsi_bl_upgrade_firmware	48	static
+rsi_device_init.c:395:9:rsi_set_fast_fw_up	16	static
+rsi_device_init.c:429:9:rsi_get_rom_version	4	static
+rsi_device_init.c:449:9:rsi_bootloader_instructions	40	static
+rsi_device_init.c:572:9:rsi_get_ram_dump	32	static

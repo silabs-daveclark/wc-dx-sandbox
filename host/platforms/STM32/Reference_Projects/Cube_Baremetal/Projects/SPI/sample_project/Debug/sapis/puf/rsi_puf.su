@@ -1,0 +1,12 @@
+rsi_puf.c:32:10:rsi_puf_enroll_req	32	static
+rsi_puf.c:114:10:rsi_puf_enroll_disable_req	32	static
+rsi_puf.c:196:10:rsi_puf_start_req	32	static
+rsi_puf.c:282:10:rsi_puf_set_key_req	56	static
+rsi_puf.c:395:10:rsi_puf_set_key_disable_req	32	static
+rsi_puf.c:480:10:rsi_puf_get_key_req	56	static
+rsi_puf.c:586:10:rsi_puf_get_key_disable_req	32	static
+rsi_puf.c:670:10:rsi_puf_load_key_req	48	static
+rsi_puf.c:778:10:rsi_puf_aes_encrypt_req	48	static
+rsi_puf.c:930:10:rsi_puf_aes_decrypt_req	48	static
+rsi_puf.c:1083:10:rsi_puf_aes_mac_req	56	static
+rsi_puf.c:1230:10:rsi_puf_intr_key_req	48	static

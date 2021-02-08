@@ -1,0 +1,9 @@
+rsi_emb_mqtt_client.c:57:9:rsi_emb_mqtt_client_init	40	static
+rsi_emb_mqtt_client.c:238:9:rsi_emb_mqtt_connect	40	static
+rsi_emb_mqtt_client.c:350:9:rsi_emb_mqtt_publish	48	static
+rsi_emb_mqtt_client.c:491:9:rsi_emb_mqtt_subscribe	32	static
+rsi_emb_mqtt_client.c:605:9:rsi_emb_mqtt_unsubscribe	32	static
+rsi_emb_mqtt_client.c:717:9:rsi_emb_mqtt_disconnect	24	static
+rsi_emb_mqtt_client.c:805:9:rsi_emb_mqtt_destroy	24	static
+rsi_emb_mqtt_client.c:893:9:rsi_emb_mqtt_register_call_back	16	static
+rsi_emb_mqtt_client.c:934:9:rsi_cal_mqtt_packet_len	16	static

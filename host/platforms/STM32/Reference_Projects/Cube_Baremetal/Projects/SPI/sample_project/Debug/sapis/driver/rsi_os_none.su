@@ -1,0 +1,15 @@
+rsi_os_none.c:35:17:rsi_critical_section_entry	16	static
+rsi_os_none.c:64:7:rsi_critical_section_exit	16	static
+rsi_os_none.c:88:8:rsi_virtual_to_physical_address	16	static
+rsi_os_none.c:105:7:rsi_physical_to_virtual_address	16	static
+rsi_os_none.c:129:13:rsi_mutex_create	16	static
+rsi_os_none.c:149:13:rsi_mutex_lock	16	static
+rsi_os_none.c:167:13:rsi_mutex_unlock	16	static
+rsi_os_none.c:184:13:rsi_mutex_destroy	16	static
+rsi_os_none.c:202:13:rsi_semaphore_create	16	static
+rsi_os_none.c:221:13:rsi_semaphore_destroy	16	static
+rsi_os_none.c:239:13:rsi_semaphore_check_and_destroy	16	static
+rsi_os_none.c:262:13:rsi_semaphore_wait	32	static
+rsi_os_none.c:318:13:rsi_semaphore_post_from_isr	24	static
+rsi_os_none.c:340:13:rsi_semaphore_post	24	static
+rsi_os_none.c:360:13:rsi_semaphore_reset	24	static

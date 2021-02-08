@@ -1,0 +1,11 @@
+rsi_bt_sdp_apis.c:35:11:rsi_bt_set_sdp_attr_id	32	static
+rsi_bt_sdp_apis.c:82:11:rsi_bt_add_sdp_attribute	40	static
+rsi_bt_sdp_apis.c:157:10:rsi_bt_add_sdp_hid_language_attribute	32	static
+rsi_bt_sdp_apis.c:210:11:rsi_bt_add_sdp_hid_descriptor_list	40	static
+rsi_bt_sdp_apis.c:248:10:rsi_bt_add_sdp_service_attribute	40	static
+rsi_bt_sdp_apis.c:292:11:rsi_bt_add_sdp_service_classid	32	static
+rsi_bt_sdp_apis.c:345:11:rsi_bt_add_sdp_service_handle	32	static
+rsi_bt_sdp_apis.c:393:10:rsi_bt_add_sdp_protocol_list	40	static
+rsi_bt_sdp_apis.c:464:10:rsi_bt_add_sdp_language_base_attributeid_list	40	static
+rsi_bt_sdp_apis.c:530:11:rsi_bt_add_sdp_profile_descriptor_list	32	static
+rsi_bt_sdp_apis.c:599:11:rsi_bt_add_sdp_service_record_handle	32	static

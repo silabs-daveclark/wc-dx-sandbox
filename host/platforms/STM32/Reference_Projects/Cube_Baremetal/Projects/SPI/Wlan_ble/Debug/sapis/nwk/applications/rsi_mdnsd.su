@@ -1,0 +1,3 @@
+rsi_mdnsd.c:31:9:rsi_mdnsd_init	40	static
+rsi_mdnsd.c:136:9:rsi_mdnsd_register_service	56	static
+rsi_mdnsd.c:248:9:rsi_mdnsd_deinit	32	static

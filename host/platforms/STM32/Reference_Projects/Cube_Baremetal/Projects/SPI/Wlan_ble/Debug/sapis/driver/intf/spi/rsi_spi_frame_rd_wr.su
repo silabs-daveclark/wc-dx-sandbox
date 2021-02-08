@@ -1,0 +1,6 @@
+rsi_spi_frame_rd_wr.c:138:9:rsi_frame_read	40	static
+rsi_spi_frame_rd_wr.c:203:9:rsi_frame_write	32	static
+rsi_spi_frame_rd_wr.c:265:9:rsi_pre_dsc_rd	24	static
+rsi_spi_frame_rd_wr.c:335:9:rsi_pkt_rd	40	static
+rsi_spi_frame_rd_wr.c:421:9:rsi_spi_frame_dsc_wr	40	static
+rsi_spi_frame_rd_wr.c:487:9:rsi_spi_frame_data_wr	32	static

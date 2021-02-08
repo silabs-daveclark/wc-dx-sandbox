@@ -1,0 +1,6 @@
+rsi_pkt_mgmt_rom.c:40:9:ROM_WL_rsi_pkt_pool_init	40	static
+rsi_pkt_mgmt_rom.c:118:13:ROM_WL_rsi_pkt_alloc_non_blocking	24	static
+rsi_pkt_mgmt_rom.c:175:9:ROM_WL_rsi_pkt_free_non_blocking	32	static
+rsi_pkt_mgmt_rom.c:223:13:ROM_WL_rsi_pkt_alloc	24	static
+rsi_pkt_mgmt_rom.c:280:9:ROM_WL_rsi_pkt_free	32	static
+rsi_pkt_mgmt_rom.c:327:10:ROM_WL_rsi_is_pkt_available	24	static

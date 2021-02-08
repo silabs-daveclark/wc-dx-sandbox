@@ -1,0 +1,5 @@
+rsi_mdnsd_records.c:31:6:rsi_mdns_txt_rec_create	32	static
+rsi_mdnsd_records.c:56:8:rsi_mdns_txt_rec_setvalue	48	static
+rsi_mdnsd_records.c:105:10:rsi_mdns_txt_rec_search	40	static
+rsi_mdnsd_records.c:136:9:rsi_mdns_txt_rec_removevalue	40	static
+rsi_mdnsd_records.c:165:14:rsi_mdns_get_txt_rec_buffer	24	static

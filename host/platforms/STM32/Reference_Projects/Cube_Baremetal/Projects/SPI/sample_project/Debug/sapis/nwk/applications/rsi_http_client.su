@@ -1,0 +1,9 @@
+rsi_http_client.c:45:9:rsi_http_client_get_async	56	static
+rsi_http_client.c:84:9:rsi_http_client_post_async	56	static
+rsi_http_client.c:125:9:rsi_http_client_async	56	static
+rsi_http_client.c:355:9:rsi_http_client_abort	24	static
+rsi_http_client.c:420:9:rsi_http_client_put_create	32	static
+rsi_http_client.c:510:9:rsi_http_client_put_delete	32	static
+rsi_http_client.c:596:9:rsi_http_client_put_start	56	static
+rsi_http_client.c:751:9:rsi_http_client_put_pkt	48	static
+rsi_http_client.c:851:9:rsi_http_client_post_data	48	static

@@ -1,0 +1,4 @@
+rsi_bt_pbap_apis.c:30:9:rsi_bt_pbap_init	16	static
+rsi_bt_pbap_apis.c:48:9:rsi_bt_pbap_connect	24	static
+rsi_bt_pbap_apis.c:67:9:rsi_bt_pbap_disconnect	24	static
+rsi_bt_pbap_apis.c:85:9:rsi_bt_pbap_contacts	32	static

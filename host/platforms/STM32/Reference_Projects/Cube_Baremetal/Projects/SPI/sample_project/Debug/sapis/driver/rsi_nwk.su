@@ -1,0 +1,13 @@
+rsi_nwk.c:39:9:rsi_driver_send_data	24	static
+rsi_nwk.c:59:9:rsi_driver_process_recv_data	16	static
+rsi_nwk.c:78:9:rsi_nwk_register_callbacks	16	static
+rsi_nwk.c:113:9:rsi_wlan_nwk_register_json_update_cb	16	static
+rsi_nwk.c:132:9:rsi_wlan_nwk_register_json_event_cb	16	static
+rsi_nwk.c:149:9:rsi_wlan_nwk_register_webpage_req_cb	16	static
+rsi_nwk.c:166:9:rsi_wlan_nwk_register_wireless_fw_upgrade_cb	16	static
+rsi_nwk.c:196:13:rsi_wait_on_nwk_semaphore	16	static
+rsi_nwk.c:218:9:rsi_wlan_get_nwk_status	4	static
+rsi_nwk.c:235:6:rsi_wlan_set_nwk_status	16	static
+rsi_nwk.c:262:9:rsi_driver_send_data_non_rom	56	static
+rsi_nwk.c:427:9:rsi_driver_process_recv_data_non_rom	64	static
+rsi_nwk.c:575:6:rsi_post_waiting_nwk_semaphore	8	static

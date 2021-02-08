@@ -1,0 +1,3 @@
+rsi_driver.c:29:7:rsi_interrupt_handler	8	static
+rsi_driver.c:45:6:rsi_mask_ta_interrupt	8	static
+rsi_driver.c:55:6:rsi_unmask_ta_interrupt	8	static

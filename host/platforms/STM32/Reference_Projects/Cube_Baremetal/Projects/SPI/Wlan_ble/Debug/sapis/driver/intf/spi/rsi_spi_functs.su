@@ -1,0 +1,9 @@
+rsi_spi_functs.c:47:9:rsi_send_c1c2	40	static
+rsi_spi_functs.c:107:9:rsi_send_c3c4	24	static
+rsi_spi_functs.c:142:9:rsi_spi_wait_start_token	24	static
+rsi_spi_functs.c:199:9:rsi_set_intr_mask	24	static
+rsi_spi_functs.c:243:9:rsi_set_intr_type	24	static
+rsi_spi_functs.c:283:9:rsi_clear_interrupt	24	static
+rsi_spi_functs.c:321:9:rsi_device_interrupt_status	24	static
+rsi_spi_functs.c:362:9:rsi_spi_pkt_len	24	static
+rsi_spi_functs.c:405:9:rsi_spi_high_speed_enable	16	static

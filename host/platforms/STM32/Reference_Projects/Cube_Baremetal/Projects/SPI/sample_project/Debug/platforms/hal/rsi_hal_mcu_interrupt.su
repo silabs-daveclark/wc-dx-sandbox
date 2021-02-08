@@ -1,0 +1,6 @@
+rsi_hal_mcu_interrupt.c:38:6:EXTI9_5_IRQHandler	8	static
+rsi_hal_mcu_interrupt.c:63:6:rsi_hal_intr_config	16	static
+rsi_hal_mcu_interrupt.c:85:6:rsi_hal_intr_mask	8	static
+rsi_hal_mcu_interrupt.c:105:6:rsi_hal_intr_unmask	8	static
+rsi_hal_mcu_interrupt.c:126:6:rsi_hal_intr_clear	4	static
+rsi_hal_mcu_interrupt.c:145:9:rsi_hal_intr_pin_status	16	static

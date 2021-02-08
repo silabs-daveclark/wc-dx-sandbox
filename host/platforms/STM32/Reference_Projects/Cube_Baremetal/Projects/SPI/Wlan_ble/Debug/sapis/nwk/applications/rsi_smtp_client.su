@@ -1,0 +1,3 @@
+rsi_smtp_client.c:40:9:rsi_smtp_client_create	48	static
+rsi_smtp_client.c:248:9:rsi_smtp_client_mail_send_async	48	static
+rsi_smtp_client.c:382:9:rsi_smtp_client_delete_async	40	static

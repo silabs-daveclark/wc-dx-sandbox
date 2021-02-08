@@ -1,0 +1,6 @@
+rsi_hal_mcu_timer.c:51:9:rsi_timer_start	16	static
+rsi_hal_mcu_timer.c:78:9:rsi_timer_stop	16	static
+rsi_hal_mcu_timer.c:102:10:rsi_timer_read	24	static
+rsi_hal_mcu_timer.c:129:6:rsi_delay_us	16	static
+rsi_hal_mcu_timer.c:151:6:rsi_delay_ms	24	static
+rsi_hal_mcu_timer.c:173:10:rsi_hal_gettickcount	8	static

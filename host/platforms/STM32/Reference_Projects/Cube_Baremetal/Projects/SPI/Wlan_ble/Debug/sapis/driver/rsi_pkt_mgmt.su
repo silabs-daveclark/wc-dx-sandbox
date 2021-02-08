@@ -1,0 +1,4 @@
+rsi_pkt_mgmt.c:36:9:rsi_pkt_pool_init	40	static
+rsi_pkt_mgmt.c:61:13:rsi_pkt_alloc	16	static
+rsi_pkt_mgmt.c:87:9:rsi_pkt_free	16	static
+rsi_pkt_mgmt.c:111:10:rsi_is_pkt_available	16	static

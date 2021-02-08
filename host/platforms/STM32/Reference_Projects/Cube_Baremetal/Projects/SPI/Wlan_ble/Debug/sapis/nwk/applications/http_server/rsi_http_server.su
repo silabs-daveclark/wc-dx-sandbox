@@ -1,0 +1,7 @@
+rsi_http_server.c:35:9:rsi_webpage_load	64	static
+rsi_http_server.c:170:9:rsi_json_object_create	64	static
+rsi_http_server.c:296:9:rsi_webpage_erase	48	static
+rsi_http_server.c:411:9:rsi_json_object_delete	40	static
+rsi_http_server.c:497:9:rsi_webpage_send	64	static
+rsi_http_server.c:635:9:rsi_req_wireless_fwup	24	static
+rsi_http_server.c:701:9:rsi_http_credentials	32	static

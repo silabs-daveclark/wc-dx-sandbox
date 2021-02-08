@@ -1,0 +1,15 @@
+rsi_bt_hfp_apis.c:30:9:rsi_bt_hfp_init	16	static
+rsi_bt_hfp_apis.c:47:9:rsi_bt_hfp_connect	24	static
+rsi_bt_hfp_apis.c:69:9:rsi_bt_hfp_disconnect	24	static
+rsi_bt_hfp_apis.c:90:9:rsi_bt_hfp_phoneoperator	16	static
+rsi_bt_hfp_apis.c:106:9:rsi_bt_hfp_callaccept	8	static
+rsi_bt_hfp_apis.c:121:9:rsi_bt_hfp_callreject	8	static
+rsi_bt_hfp_apis.c:136:9:rsi_bt_hfp_dialnum	32	static
+rsi_bt_hfp_apis.c:152:9:rsi_bt_hfp_dialmem	32	static
+rsi_bt_hfp_apis.c:169:9:rsi_bt_hfp_redial	8	static
+rsi_bt_hfp_apis.c:184:9:rsi_bt_hfp_voicerecognitionactive	8	static
+rsi_bt_hfp_apis.c:200:9:rsi_bt_hfp_voicerecognitiondeactive	8	static
+rsi_bt_hfp_apis.c:215:9:rsi_bt_hfp_spkgain	24	static
+rsi_bt_hfp_apis.c:234:9:rsi_bt_hfp_micgain	24	static
+rsi_bt_hfp_apis.c:253:9:rsi_bt_hfp_getcalls	8	static
+rsi_bt_hfp_apis.c:269:9:rsi_bt_hfp_audio	8	static

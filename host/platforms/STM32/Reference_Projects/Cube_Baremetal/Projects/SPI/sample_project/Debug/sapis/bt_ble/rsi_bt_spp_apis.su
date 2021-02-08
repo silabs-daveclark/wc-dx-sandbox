@@ -1,0 +1,4 @@
+rsi_bt_spp_apis.c:30:9:rsi_bt_spp_init	16	static
+rsi_bt_spp_apis.c:47:9:rsi_bt_spp_connect	24	static
+rsi_bt_spp_apis.c:69:9:rsi_bt_spp_disconnect	24	static
+rsi_bt_spp_apis.c:93:9:rsi_bt_spp_transfer	352	static

@@ -1,0 +1,3 @@
+rsi_firmware_upgradation.c:35:16:rsi_fwup	32	static
+rsi_firmware_upgradation.c:124:9:rsi_fwup_start	24	static
+rsi_firmware_upgradation.c:148:9:rsi_fwup_load	24	static

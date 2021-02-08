@@ -1,0 +1,6 @@
+rsi_hal_mcu_spi.c:36:6:cs_enable	8	static
+rsi_hal_mcu_spi.c:42:6:cs_disable	8	static
+rsi_hal_mcu_spi.c:60:6:rsi_pwrsave_host_gpio_set	8	static
+rsi_hal_mcu_spi.c:75:6:rsi_pwrsave_host_gpio_reset	8	static
+rsi_hal_mcu_spi.c:97:9:rsi_spi_transfer	24	static
+rsi_hal_mcu_spi.c:126:7:HAL_SPI_TxRxCpltCallback	16	static

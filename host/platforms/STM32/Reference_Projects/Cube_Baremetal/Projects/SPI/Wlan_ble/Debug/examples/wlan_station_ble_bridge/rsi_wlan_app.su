@@ -1,0 +1,9 @@
+rsi_wlan_app.c:157:6:rsi_wlan_app_callbacks_init	8	static
+rsi_wlan_app.c:172:9:rsi_wlan_app_init	16	static
+rsi_wlan_app.c:186:7:rsi_wlan_app_task	32	static
+rsi_wlan_app.c:344:9:rsi_ble_app_send_to_wlan	24	static
+rsi_wlan_app.c:381:6:rsi_wlan_async_data_recv	24	static
+rsi_wlan_app.c:391:6:rsi_join_fail_handler	24	static
+rsi_wlan_app.c:398:6:rsi_ip_renewal_fail_handler	24	static
+rsi_wlan_app.c:405:6:rsi_remote_socket_terminate_handler	24	static
+rsi_wlan_app.c:412:6:rsi_ip_change_notify_handler	24	static

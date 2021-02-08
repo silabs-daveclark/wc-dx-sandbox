@@ -1,0 +1,13 @@
+rsi_common.c:44:8:rsi_common_cb_init	24	static
+rsi_common.c:119:9:rsi_driver_common_send_cmd	40	static
+rsi_common.c:508:9:rsi_driver_process_common_recv_cmd	48	static
+rsi_common.c:1032:6:rsi_handle_slp_wkp	32	static
+rsi_common.c:1107:8:rsi_req_wakeup	16	static
+rsi_common.c:1164:8:rsi_wait4wakeup	16	static
+rsi_common.c:1225:6:rsi_allow_sleep	8	static
+rsi_common.c:1248:6:rsi_powersave_gpio_init	8	static
+rsi_common.c:1275:6:rsi_common_packet_transfer_done	16	static
+rsi_common.c:1296:9:rsi_sleep_mode_decision	24	static
+rsi_common.c:1425:9:rsi_send_ps_mode_to_module	32	static
+rsi_common.c:1565:13:rsi_wait_on_common_semaphore	16	static
+rsi_common.c:1586:9:rsi_check_and_update_cmd_state	24	static

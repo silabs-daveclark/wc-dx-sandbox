@@ -1,0 +1,2 @@
+rsi_device_init_apis.c:51:9:rsi_device_init	24	static
+rsi_device_init_apis.c:270:9:rsi_device_deinit	16	static

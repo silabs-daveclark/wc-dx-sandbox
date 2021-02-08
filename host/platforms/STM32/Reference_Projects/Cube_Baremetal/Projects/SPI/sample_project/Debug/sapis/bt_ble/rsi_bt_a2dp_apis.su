@@ -1,0 +1,15 @@
+rsi_bt_a2dp_apis.c:31:9:rsi_bt_a2dp_init	16	static
+rsi_bt_a2dp_apis.c:50:9:rsi_bt_a2dp_connect	24	static
+rsi_bt_a2dp_apis.c:72:9:rsi_bt_a2dp_disconnect	24	static
+rsi_bt_a2dp_apis.c:98:9:rsi_bt_a2dp_send_pcm_mp3_data	24	static
+rsi_bt_a2dp_apis.c:137:9:rsi_bt_sbc_encode	24	static
+rsi_bt_a2dp_apis.c:143:9:rsi_bt_app_send_sbc_data	8	static
+rsi_bt_a2dp_apis.c:148:6:reset_audio_params	8	static
+rsi_bt_a2dp_apis.c:153:6:update_modified_mtu_size	16	static
+rsi_bt_a2dp_apis.c:170:9:rsi_bt_a2dp_send_sbc_aac_data	368	static
+rsi_bt_a2dp_apis.c:196:9:rsi_bt_a2dp_start	24	static
+rsi_bt_a2dp_apis.c:219:9:rsi_bt_a2dp_suspend	24	static
+rsi_bt_a2dp_apis.c:242:9:rsi_bt_a2dp_close	24	static
+rsi_bt_a2dp_apis.c:265:9:rsi_bt_a2dp_abort	24	static
+rsi_bt_a2dp_apis.c:287:9:rsi_bt_a2dp_get_config	24	static
+rsi_bt_a2dp_apis.c:310:9:rsi_bt_a2dp_set_config	40	static

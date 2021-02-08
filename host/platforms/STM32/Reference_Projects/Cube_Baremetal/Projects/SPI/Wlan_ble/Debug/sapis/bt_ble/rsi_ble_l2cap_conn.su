@@ -1,0 +1,4 @@
+rsi_ble_l2cap_conn.c:35:10:rsi_ble_cbfc_connreq	24	static
+rsi_ble_l2cap_conn.c:64:10:rsi_ble_cbfc_connresp	32	static
+rsi_ble_l2cap_conn.c:94:10:rsi_ble_cbfc_data_tx	288	static
+rsi_ble_l2cap_conn.c:124:10:rsi_ble_cbfc_disconnect	24	static

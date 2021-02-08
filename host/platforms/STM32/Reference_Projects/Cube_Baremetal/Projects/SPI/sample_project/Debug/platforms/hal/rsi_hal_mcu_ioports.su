@@ -1,0 +1,4 @@
+rsi_hal_mcu_ioports.c:53:6:rsi_hal_config_gpio	40	static
+rsi_hal_mcu_ioports.c:96:6:rsi_hal_set_gpio	16	static
+rsi_hal_mcu_ioports.c:135:9:rsi_hal_get_gpio	24	static
+rsi_hal_mcu_ioports.c:178:6:rsi_hal_clear_gpio	16	static

@@ -1,0 +1,2 @@
+rsi_dns.c:36:9:rsi_dns_req	48	static
+rsi_dns.c:239:9:rsi_dns_update	48	static

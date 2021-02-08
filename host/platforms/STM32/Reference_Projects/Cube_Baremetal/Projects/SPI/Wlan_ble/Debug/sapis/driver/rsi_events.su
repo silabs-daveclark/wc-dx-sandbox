@@ -1,0 +1,9 @@
+rsi_events.c:142:6:rsi_set_event	16	static
+rsi_events.c:162:6:rsi_clear_event	16	static
+rsi_events.c:180:6:rsi_mask_event	16	static
+rsi_events.c:198:6:rsi_unmask_event	16	static
+rsi_events.c:218:6:rsi_unmask_event_from_isr	16	static
+rsi_events.c:238:10:rsi_find_event	16	static
+rsi_events.c:259:10:rsi_register_event	16	static
+rsi_events.c:279:6:rsi_set_event_from_isr	16	static
+rsi_events.c:300:6:rsi_events_init	8	static

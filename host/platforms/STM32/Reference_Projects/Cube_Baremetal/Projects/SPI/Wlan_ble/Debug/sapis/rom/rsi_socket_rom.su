@@ -1,0 +1,4 @@
+rsi_socket_rom.c:32:9:ROM_WL_rsi_get_application_socket_descriptor	24	static
+rsi_socket_rom.c:70:9:ROM_WL_rsi_get_primary_socket_id	24	static
+rsi_socket_rom.c:107:9:ROM_WL_calculate_buffers_required	24	static
+rsi_socket_rom.c:173:10:ROM_WL_calculate_length_to_send	24	static

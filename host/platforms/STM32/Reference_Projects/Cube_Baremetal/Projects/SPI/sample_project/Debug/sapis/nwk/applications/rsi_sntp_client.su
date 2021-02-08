@@ -1,0 +1,5 @@
+rsi_sntp_client.c:39:9:rsi_sntp_client_create_async	40	static
+rsi_sntp_client.c:177:9:rsi_sntp_client_gettime	40	static
+rsi_sntp_client.c:292:9:rsi_sntp_client_gettime_date	40	static
+rsi_sntp_client.c:406:9:rsi_sntp_client_server_info	40	static
+rsi_sntp_client.c:519:9:rsi_sntp_client_delete_async	32	static

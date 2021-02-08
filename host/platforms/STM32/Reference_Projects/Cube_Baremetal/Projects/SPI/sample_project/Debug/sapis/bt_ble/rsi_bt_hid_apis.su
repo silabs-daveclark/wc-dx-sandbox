@@ -1,0 +1,12 @@
+rsi_bt_hid_apis.c:61:9:rsi_bt_hid_init	16	static
+rsi_bt_hid_apis.c:78:9:rsi_bt_hid_connect	24	static
+rsi_bt_hid_apis.c:89:9:rsi_bt_hid_profile_data	1088	static
+rsi_bt_hid_apis.c:103:9:rsi_bt_hid_send_handshake	24	static
+rsi_bt_hid_apis.c:110:9:rsi_bt_hid_send_control	24	static
+rsi_bt_hid_apis.c:117:9:rsi_bt_hid_get_report	24	static
+rsi_bt_hid_apis.c:127:9:rsi_bt_hid_set_report	72	static
+rsi_bt_hid_apis.c:136:9:rsi_bt_hid_get_protocol	24	static
+rsi_bt_hid_apis.c:143:9:rsi_bt_hid_set_protocol	24	static
+rsi_bt_hid_apis.c:150:9:rsi_bt_hid_send_interrupt_data	72	static
+rsi_bt_hid_apis.c:170:9:rsi_bt_hid_disconnect	24	static
+rsi_bt_hid_apis.c:182:9:rsi_bt_hid_service_initialize	720	static

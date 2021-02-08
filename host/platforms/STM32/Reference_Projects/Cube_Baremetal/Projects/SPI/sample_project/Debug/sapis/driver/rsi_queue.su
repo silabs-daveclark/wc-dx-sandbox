@@ -1,0 +1,6 @@
+rsi_queue.c:34:6:rsi_queues_init	16	static
+rsi_queue.c:56:6:rsi_enqueue_pkt	16	static
+rsi_queue.c:78:12:rsi_dequeue_pkt	16	static
+rsi_queue.c:101:10:rsi_check_queue_status	16	static
+rsi_queue.c:119:6:rsi_block_queue	16	static
+rsi_queue.c:137:6:rsi_unblock_queue	16	static

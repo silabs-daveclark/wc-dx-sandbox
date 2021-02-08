@@ -1,0 +1,7 @@
+rsi_hal_mcu_sdio.c:41:9:rsi_sdio_write_multiple	24	static
+rsi_hal_mcu_sdio.c:58:9:rsi_sdio_read_multiple	16	static
+rsi_hal_mcu_sdio.c:73:9:sdio_reg_writeb	16	static
+rsi_hal_mcu_sdio.c:88:9:sdio_reg_readb	16	static
+rsi_hal_mcu_sdio.c:103:9:rsi_sdio_readb	24	static
+rsi_hal_mcu_sdio.c:118:9:rsi_sdio_writeb	24	static
+rsi_hal_mcu_sdio.c:131:9:rsi_mcu_sdio_init	4	static

@@ -1,0 +1,12 @@
+rsi_ftp.c:38:9:rsi_ftp_connect	48	static
+rsi_ftp.c:201:9:rsi_ftp_disconnect	24	static
+rsi_ftp.c:328:9:rsi_ftp_file_write	32	static
+rsi_ftp.c:430:9:rsi_ftp_file_write_content	64	static
+rsi_ftp.c:614:9:rsi_ftp_file_read_aysnc	32	static
+rsi_ftp.c:715:9:rsi_ftp_file_delete	32	static
+rsi_ftp.c:810:9:rsi_ftp_file_rename	32	static
+rsi_ftp.c:908:9:rsi_ftp_directory_create	32	static
+rsi_ftp.c:1002:9:rsi_ftp_directory_delete	32	static
+rsi_ftp.c:1094:9:rsi_ftp_directory_set	32	static
+rsi_ftp.c:1194:9:rsi_ftp_directory_list_async	32	static
+rsi_ftp.c:1297:9:rsi_ftp_mode_set	32	static

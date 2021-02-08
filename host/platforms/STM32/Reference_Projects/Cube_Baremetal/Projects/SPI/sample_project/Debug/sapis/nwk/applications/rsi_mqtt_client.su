@@ -1,0 +1,7 @@
+rsi_mqtt_client.c:53:26:rsi_mqtt_client_init	48	static
+rsi_mqtt_client.c:139:9:rsi_mqtt_connect	136	static
+rsi_mqtt_client.c:205:9:rsi_mqtt_disconnect	24	static
+rsi_mqtt_client.c:238:9:rsi_mqtt_publish	32	static
+rsi_mqtt_client.c:277:9:rsi_mqtt_subscribe	32	static
+rsi_mqtt_client.c:319:9:rsi_mqtt_unsubscribe	24	static
+rsi_mqtt_client.c:349:9:rsi_mqtt_poll_for_recv_data	16	static

@@ -1,0 +1,4 @@
+rsi_wlan_app.c:185:6:socket_async_recive	24	static
+rsi_wlan_app.c:191:6:rsi_join_fail_handler	24	static
+rsi_wlan_app.c:198:6:rsi_wlan_app_call_backs_init	8	static
+rsi_wlan_app.c:204:9:rsi_wlan_app_task	48	static

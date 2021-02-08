@@ -1,0 +1,5 @@
+rsi_timer.c:38:6:rsi_timer_expiry_interrupt_handler	4	static
+rsi_timer.c:67:10:rsi_timer_read_counter	8	static
+rsi_timer.c:88:6:rsi_init_timer	16	static
+rsi_timer.c:115:9:rsi_timer_expired	32	static
+rsi_timer.c:150:10:rsi_timer_left	32	static

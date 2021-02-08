@@ -1,0 +1,3 @@
+rsi_multicast.c:34:16:rsi_multicast	32	static
+rsi_multicast.c:125:9:rsi_multicast_join	24	static
+rsi_multicast.c:150:9:rsi_multicast_leave	24	static
