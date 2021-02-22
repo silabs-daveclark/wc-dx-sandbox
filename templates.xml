@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
 
-  <descriptors label="RS9116W - Throughput" description="Configures the RS9116W to perform Wi-Fi throughput measurements using the UDP, TCP or SSL protocol">
+  <descriptors label="RS9116W - Throughput testing" description="Configures the RS9116W to perform Wi-Fi throughput measurements using the UDP, TCP or SSL protocol">
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
