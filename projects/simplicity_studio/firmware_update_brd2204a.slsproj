@@ -26,7 +26,7 @@
     <file name="retargetio.c" uri="platforms/efm32/debug_prints/retargetio.c" />
   </folder>
 
-  <folder name="example" uri="sapis/examples/wlan/firmware_upgrade" includeAllFiles="true" includeAllFolders="true" />
+  <folder name="example" uri="sapis/examples/wlan/wireless_firmware_upgradation" includeAllFiles="true" includeAllFolders="true" />
 
   <folder name="Platforms">
     <folder name="hal" uri="platforms/efm32/hal" includeAllFiles="true" includeAllFolders="true" />
@@ -37,10 +37,9 @@
     <folder name="driver" uri="sapis/driver" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="include" uri="sapis/include" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="rom" uri="sapis/rom" includeAllFiles="true" includeAllFolders="true"/>
+	<folder name="nwk/applications/http_server" uri="sapis/nwk/applications/http_server" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="nwk/socket" uri="sapis/nwk/socket" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="wlan" uri="sapis/wlan" includeAllFiles="true" includeAllFolders="true"/>
-
-    <file name="nwk/applications/rsi_firmware_upgradation.h" uri="sapis/nwk/applications/rsi_firmware_upgradation.h" />
 
   </folder>
 
@@ -51,8 +50,10 @@
   <includePath uri="sapis/rom" />
   <macroDefinition name="RSI_WLAN_ENABLE" />
   <macroDefinition name="RSI_SAMPLE_HAL" />
-
+  <macroDefinition name="RSI_SAMPLE_HAL" />
   <macroDefinition name="RSI_SPI_INTERFACE" />
+  <macroDefinition name="RSI_DEBUG_PRINTS" />
+  
 
   <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.flags" value="-c -x assembler-with-cpp -mfloat-abi=softfp -mfpu=fpv4-sp-d16 "/>
 </project>

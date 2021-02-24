@@ -47,6 +47,7 @@
   <includePath uri="sapis/rom" />
   <macroDefinition name="RSI_WLAN_ENABLE" />
   <macroDefinition name="RSI_SAMPLE_HAL" />
+  <macroDefinition name="RSI_DEBUG_PRINTS" />
 
   <macroDefinition name="RSI_SPI_INTERFACE" />
 

@@ -32,6 +32,7 @@
     <folder name="hal" uri="platforms/efm32/hal" includeAllFiles="true" includeAllFolders="true" />
   </folder>
   <folder name="Sapis">
+	<folder name="bt_ble" uri="sapis/bt_ble" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="common" uri="sapis/common" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="crypto" uri="sapis/crypto" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="driver" uri="sapis/driver" includeAllFiles="true" includeAllFolders="true"/>
@@ -59,7 +60,7 @@
   <macroDefinition name="RSI_WLAN_ENABLE" />
   <macroDefinition name="RSI_SAMPLE_HAL" />
   <macroDefinition name="RSI_BLE_ENABLE" />
-
+  <macroDefinition name="RSI_DEBUG_PRINTS" />
   <macroDefinition name="RSI_SPI_INTERFACE" />
 
   <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.flags" value="-c -x assembler-with-cpp -mfloat-abi=softfp -mfpu=fpv4-sp-d16 "/>

@@ -18,13 +18,40 @@
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/aws_iot_brd4180a.slsproj"/>
   </descriptors>
 
-  <descriptors label="RS9116W - Firmware Update" description="Demonstrates how to wirelessly upgrade the RS9116W firmware using a remote TCP server">
+  <descriptors label="RS9116W - Firmware Update" description="Demonstrates how to wirelessly upgrade the RS9116W firmware">
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
     <properties key="defaultName" value="firmware_update_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/firmware_update_brd4180a.slsproj"/>
+  </descriptors>
+  
+    <descriptors label="RS9116W - Low Power Mode" description="Demonstrates how to configure RS9116W in low power mode">
+    <properties key="core.boardCompatibility" value="brd4180a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="Power_Save_brd4180a"/>
+    <properties key="template.initiallyOpenedResource" value="readme.md"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/Power_Save_brd4180a.slsproj"/>
+  </descriptors>
+    
+	<descriptors label="RS9116W - Regulatory Certification Test" description="Demonstrates how to configure RS9116W for PER test for Regulatory Certification">
+    <properties key="core.boardCompatibility" value="brd4180a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="transmit_test_brd4180a"/>
+    <properties key="template.initiallyOpenedResource" value="readme.md"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/transmit_test_brd4180a.slsproj"/>
+  </descriptors>
+  
+  	<descriptors label="RS9116W - Wi-Fi BLE Coex and BLE Provsioning" description="Demonstrates Wi-Fi BLE Coex mode of RS9116W and BLE provisioning">
+    <properties key="core.boardCompatibility" value="brd4180a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="Wlan_Sta_Ble_Provisioning_brd4180a"/>
+    <properties key="template.initiallyOpenedResource" value="readme.md"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/Wlan_Sta_Ble_Provisioning_brd4180a.slsproj"/>
   </descriptors>
   
   <descriptors label="RS9116W - Throughput" description="Configures the RS9116W to perform Wi-Fi throughput measurements using the UDP, TCP or SSL protocol">
@@ -45,7 +72,7 @@
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/aws_iot_brd2204a.slsproj"/>
   </descriptors>
 
-  <descriptors label="RS9116W - Firmware Update" description="Demonstrates how to wirelessly upgrade the RS9116W firmware using a remote TCP server">
+  <descriptors label="RS9116W - Firmware Update" description="Demonstrates how to wirelessly upgrade the RS9116W firmware">
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
@@ -53,5 +80,31 @@
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/firmware_update_brd2204a.slsproj"/>
   </descriptors>
+  
+      <descriptors label="RS9116W - Low Power Mode" description="Demonstrates how to configure RS9116W in low power mode">
+    <properties key="core.boardCompatibility" value="brd2204a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="Power_Save_brd2204a"/>
+    <properties key="template.initiallyOpenedResource" value="readme.md"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/Power_Save_brd2204a.slsproj"/>
+  </descriptors>
+    
+	<descriptors label="RS9116W - Regulatory Certification Test" description="Demonstrates how to configure RS9116W for PER test for Regulatory Certification">
+    <properties key="core.boardCompatibility" value="brd2204a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="transmit_test_brd2204a"/>
+    <properties key="template.initiallyOpenedResource" value="readme.md"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/transmit_test_brd2204a.slsproj"/>
+  </descriptors>
+  
+  	<descriptors label="RS9116W - Wi-Fi BLE Coex and BLE Provsioning" description="Demonstrates Wi-Fi BLE Coex mode of RS9116W and BLE provisioning">
+    <properties key="core.boardCompatibility" value="brd2204a"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
+    <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="defaultName" value="Wlan_Sta_Ble_Provisioning_brd2204a"/>
+    <properties key="template.initiallyOpenedResource" value="readme.md"/>
+    <properties key="template.projectFilePaths" value="projects/simplicity_studio/Wlan_Sta_Ble_Provisioning_brd2204a.slsproj"/>
+  </descriptors>
 </model:MDescriptors>
-

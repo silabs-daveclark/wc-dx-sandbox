@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="firmware_update_brd4180a" boardCompatibility="brd4180a" partCompatibility="mcu.arm.efr32.mg21.*" toolchainCompatibility="" contentRoot="../../host">
+<project name="Wlan_Sta_Ble_Provisioning_brd4180a" boardCompatibility="brd4180a" partCompatibility="mcu.arm.efr32.mg21.*" toolchainCompatibility="" contentRoot="../../host">
   <module id="com.silabs.sdk.exx32.board">
     <exclude pattern=".*" />
   </module>
@@ -26,12 +26,13 @@
     <file name="retargetio.c" uri="platforms/efr32/debug_prints/retargetio.c" />
   </folder>
 
-  <folder name="example" uri="sapis/examples/wlan/wireless_firmware_upgradation" includeAllFiles="true" includeAllFolders="true" />
+  <folder name="example" uri="sapis/examples/wlan_ble/wlan_station_ble_provisioning" includeAllFiles="true" includeAllFolders="true" />
 
   <folder name="Platforms">
     <folder name="hal" uri="platforms/efr32/hal" includeAllFiles="true" includeAllFolders="true" />
   </folder>
   <folder name="Sapis">
+	<folder name="bt_ble" uri="sapis/bt_ble" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="common" uri="sapis/common" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="crypto" uri="sapis/crypto" includeAllFiles="true" includeAllFolders="true"/>
     <folder name="driver" uri="sapis/driver" includeAllFiles="true" includeAllFolders="true"/>
@@ -45,7 +46,7 @@
 
   </folder>
 
-  <includePath uri="sapis/examples/wlan/wireless_firmware_upgradation"/>
+  <includePath uri="sapis/examples/wlan_ble/wlan_station_ble_provisioning"/>
 
 
   <includePath uri="sapis/include" />
@@ -55,6 +56,8 @@
   <macroDefinition name="RSI_SAMPLE_HAL" />
   <macroDefinition name="RSI_SPI_INTERFACE" />
   <macroDefinition name="RSI_DEBUG_PRINTS" />
+  <macroDefinition name="RSI_BT_ENABLE" />
+  <macroDefinition name="RSI_BLE_ENABLE" />
   
 
   <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.flags" value="-c -x assembler-with-cpp -mfloat-abi=softfp -mfpu=fpv4-sp-d16 "/>
