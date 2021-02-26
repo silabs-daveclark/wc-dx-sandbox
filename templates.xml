@@ -4,6 +4,7 @@
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="throughput_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/throughput_brd4180a.slsproj"/>
@@ -13,6 +14,7 @@
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="aws_iot_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/aws_iot_brd4180a.slsproj"/>
@@ -22,6 +24,7 @@
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="firmware_update_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/firmware_update_brd4180a.slsproj"/>
@@ -31,6 +34,7 @@
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="Power_Save_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/Power_Save_brd4180a.slsproj"/>
@@ -40,6 +44,7 @@
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="transmit_test_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/transmit_test_brd4180a.slsproj"/>
@@ -49,6 +54,7 @@
     <properties key="core.boardCompatibility" value="brd4180a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efr32.mg21.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="Wlan_Sta_Ble_Provisioning_brd4180a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/Wlan_Sta_Ble_Provisioning_brd4180a.slsproj"/>
@@ -58,6 +64,7 @@
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="throughput_brd2204a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/throughput_brd2204a.slsproj"/>
@@ -67,6 +74,7 @@
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="aws_iot_brd2204a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/aws_iot_brd2204a.slsproj"/>
@@ -76,6 +84,7 @@
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="firmware_update_brd2204a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/firmware_update_brd2204a.slsproj"/>
@@ -85,6 +94,7 @@
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="Power_Save_brd2204a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/Power_Save_brd2204a.slsproj"/>
@@ -94,6 +104,7 @@
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="transmit_test_brd2204a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/transmit_test_brd2204a.slsproj"/>
@@ -103,6 +114,7 @@
     <properties key="core.boardCompatibility" value="brd2204a"/>
     <properties key="core.partCompatibility" value="mcu.arm.efm32.gg11.*"/>
     <properties key="core.sdkAndProtocolTags" value="Wi-Fi"/>
+    <properties key="core.quality" value="Evaluation"/>
     <properties key="defaultName" value="Wlan_Sta_Ble_Provisioning_brd2204a"/>
     <properties key="template.initiallyOpenedResource" value="readme.md"/>
     <properties key="template.projectFilePaths" value="projects/simplicity_studio/Wlan_Sta_Ble_Provisioning_brd2204a.slsproj"/>
